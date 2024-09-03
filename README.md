@@ -7,12 +7,11 @@ Amateur Coder | Passionate Dev
 
 ---
 
-I'm TurboHsu, a freshbird dev studying at NUIST.
+I'm TurboHsu, sometimes do dev.
 
-- 📄 Writes Golang, Rust, Vue & CPP
-- 🔭 Love exploring & using linux distros (Arch, Fedora, Debian, Alpine, etc.)
-- 💕 Love building web applications & websites.
-- 🌿 ~~Enjoys making shit~~
+- 📄 Writes Golang, Vue & Python
+- 🐧 Daily drive ArchLinux
+- 🌿 ~~Always write shit code~~
 
 
 
